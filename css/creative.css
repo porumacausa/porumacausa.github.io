@@ -414,3 +414,7 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+.home-logo {
+  max-width: 800px;
+  width: 100%;
+}
